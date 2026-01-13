@@ -18,6 +18,5 @@ function runPlayInStyle() {
     span.style.right = 0;
   }
 }
-
 // Khởi tạo hàm
 window.onload = runPlayInStyle;
